@@ -49,21 +49,25 @@
 
 .Header{
     margin-top: 3.75em;
-    background-image: url('../images/portada.jpg');
+    background-image: url('../images/portada-cerrocastillosa.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     text-align: center;
-    padding:1.2em 0;
+    padding: 6.2em 0;
 }
 
 .Header-imageContainer{
+    position: relative;
     margin: 0;
+    top: -5em;
 }
 
 .Header-image{
-    border: 5px solid white;
-    border-radius: 50%;
+    /* position: relative; */
+    /* border: 5px solid white; */
+    /* border-radius: 50%; */
+    /* left: -15em; */
 }
 
 .Header-name,
