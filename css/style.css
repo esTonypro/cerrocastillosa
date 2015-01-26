@@ -4,6 +4,12 @@
 	padding: 0;
 }
 
+body{
+	padding-top: 0px;
+	background: #eee url(../img/bg.jpg) no-repeat center top;
+	padding-top: 50px;
+}
+
 body, input, textarea, button, form, div, td, ul, li, p, a {
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
 	font-weight: 300;
@@ -101,11 +107,6 @@ h1, h2, h3, h4, h5 {
 	display: inline-block;
 }
 
-body {
-	background: #eee url(../img/bg.jpg) no-repeat center top;
-	padding-top: 50px;
-}
-
 #dim {
 	min-width: 1000px;
 	overflow: hidden;
@@ -117,7 +118,7 @@ header {
 
 .page {
 	position: relative;
-	width: 900px;
+	width: 80%;
 	margin: 0px auto 50px auto;
 	padding: 5px;
 }
@@ -172,7 +173,10 @@ nav a {
 }
 
 h1 {
-	font-size: 30px;
+	margin: -18px 0;
+	color: #593D28;
+	font-size: 40px;
+	text-align: center;
 }
 
 h2 {
@@ -405,4 +409,28 @@ body.dark .inner a:hover {
     -moz-transform: rotate(360deg);
     -o-transform: rotate(360deg);
     -ms-transform: rotate(360deg);
+}
+
+#dim {
+				padding-top: 50px;
+			}
+
+.ls-layer div {
+				width: 250px;
+				height: 100px;
+				border-radius: 5px;
+				-moz-border-radius: 5px;
+				-webkit-border-radius: 5px;
+				box-shadow: 0px 5px 10px -5px black;
+				-moz-box-shadow: 0px 5px 10px -5px black;
+				-webkit-box-shadow: 0px 5px 10px -5px black;
+				background: white;
+				line-height: 100px;
+				font-size: 18px;
+				color: #000;
+				text-align: center;
+}
+figure img {
+    margin: 50px 0;
+    width: 100%;
 }
