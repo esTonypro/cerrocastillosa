@@ -1,0 +1,86 @@
+commit 4c66f1218363b009c66badd9fb6eebb0f2d3f98c
+Author: Antonio Silva <antoniodigrafico@gmail.com>
+Date:   Mon Jan 26 20:25:27 2015 -0300
+
+    Cambie el monbre de archivo Slider a index.html
+
+commit efcd4c6ba1bd167b3713d5712b9e1b3729eeeef0
+Author: Antonio Silva <antoniodigrafico@gmail.com>
+Date:   Mon Jan 26 20:23:57 2015 -0300
+
+    eliminé todos los archivos de la propuesta inicial, que esta ahora en la rama Propuesta
+
+commit d8b25d2a2a5eecfbccf018f60cdd7f9d3d3ee40d
+Author: Antonio Silva <antoniodigrafico@gmail.com>
+Date:   Mon Jan 26 19:53:19 2015 -0300
+
+    Finalisando la página del Slider
+
+commit d0b8bae435791dc548a114b54d8d09caac248758
+Author: Antonio Silva <antoniodigrafico@gmail.com>
+Date:   Mon Jan 26 16:14:28 2015 -0300
+
+    Subí los arcivos par el slider
+
+commit 4f6bb9ae5eb085ed91af4f2bb36a7b4ec713c17f
+Merge: 2029c3b ccaeacd
+Author: Antonio Silva <antoniodigrafico@gmail.com>
+Date:   Thu Jan 22 02:05:35 2015 -0300
+
+    cambie las imagenes desde la raiz a la carpeta images, para arreglar el problema de las extenciones JPG en mayuscula
+
+commit ccaeacd4d1121de1def0c0ac1a63d1a31c14c85d
+Author: Antonio <antoniodigrafico@gmail.com>
+Date:   Tue Jan 20 22:04:53 2015 -0300
+
+    Delete portada-cerrocastillosa.JPG
+
+commit 366c3727611329519bb0e17332ab4e772f265656
+Author: Antonio <antoniodigrafico@gmail.com>
+Date:   Tue Jan 20 22:04:40 2015 -0300
+
+    Delete P1110696.JPG
+
+commit c0ea7c020085c0e370b0e144bff42b2069b9c000
+Author: Antonio <antoniodigrafico@gmail.com>
+Date:   Tue Jan 20 22:04:22 2015 -0300
+
+    Delete P1110695.JPG
+
+commit 2029c3b41d0c70443617f3ab2a5322b6cd038dc2
+Author: Antonio Silva <antoniodigrafico@gmail.com>
+Date:   Tue Jan 20 22:02:31 2015 -0300
+
+    Arreglando el problema de la extención de archivos JPEG
+
+commit 08e0c733829a8f4418dcc90ecfb723a3d5fd77b2
+Author: Antonio Silva <antoniodigrafico@gmail.com>
+Date:   Tue Jan 20 21:54:13 2015 -0300
+
+    subí todo a github
+
+commit b5cf70f23948dcb3956cb3fe8040c7f5b60329bd
+Author: Antonio Silva <antoniodigrafico@gmail.com>
+Date:   Tue Jan 20 01:55:39 2015 -0300
+
+    Cambio callToAction
+    Nuestro Ultimo Proyeecto Reserva ahora
+    Color Verde
+
+commit e7a7a516df28772a5afbcddb86a9ac55ef8c98e5
+Author: Antonio Silva <antoniodigrafico@gmail.com>
+Date:   Tue Jan 20 00:24:58 2015 -0300
+
+    callToAction INVERTIR ES UNA GRAN IDÉA con botón de color rojo
+
+commit e2dc863b4610fae5625895b2857ca7db6539bb8f
+Author: Antonio Silva <antoniodigrafico@gmail.com>
+Date:   Mon Jan 19 19:10:07 2015 -0300
+
+    Empesandod con la imagen de portada y la marca
+
+commit bd70dbfa1b107d0ab56c14ac9ae25f984b49e867
+Author: Antonio Silva <antoniodigrafico@gmail.com>
+Date:   Mon Jan 19 16:05:46 2015 -0300
+
+    Archivos base del sitio cerrocastillosa
